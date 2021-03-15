@@ -1,0 +1,31 @@
+﻿General settings creat command
+General Command exec
+General Command ::LoadDA
+General Command ::LoadScatterFile
+General Command ::LoadRoms
+load roms in rom list
+General Command ::LoadAuthFile
+General Command ::LoadCertFile
+General command exec done!
+Connection create done!
+Command (0)::Execute
+Connecting to BROM...
+Scanning USB port...
+Search usb, timeout set as 120000 ms
+USB port is obtained
+USB port detected
+BROM connected
+Downloading & Connecting to DA...
+connect DA end stage: 2, enable DRAM in 1st DA: 0
+Download DA now...
+10% of DA has been sent.
+20% of DA has been sent.
+90% of DA has been sent.
+100% of DA has been sent.
+DA Connected
+Write Memory Initial...
+Disconnect!
+100% of flash has been formatted.
+Format Succeeded.
+All command exec done!
+Formatting
